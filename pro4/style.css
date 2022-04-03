@@ -1,0 +1,89 @@
+.header h1{
+    text-align: center;
+    font-size: 105px;
+    color: cornflowerblue;
+    border-bottom: double;
+
+}
+.subject1{
+    width: 50%;
+    height: 550px;
+    float: left;
+}
+.subject2{
+    width: 50%;
+    height: 550px;
+    float: left;
+
+}
+h2{
+    text-align: center;
+    font-style: italic;
+    color: crimson;
+}
+.sub1{
+    width: 31%;
+    height: 510px;
+    background-color:lightgoldenrodyellow;
+    float: left;
+    margin: 5px;
+    position: relative;
+    border: dotted;
+    padding: 5px;
+    
+  
+}
+.sub2{
+    width: 31%;
+    height: 510px;
+    background-color:lightgoldenrodyellow;
+    float: left;
+    margin: 5px;
+    position: relative;
+    border: dotted;
+    padding: 5px;
+  
+}
+.sub3{
+    width: 31%;
+    height: 510px;
+    background-color:lightgoldenrodyellow;
+    float: left;
+    margin: 5px;
+    position: relative;
+    border: dotted;
+    padding: 5px;
+
+}
+.sub4{
+    width: 98%;
+    height: 350px;
+    background-color: lightgoldenrodyellow;
+    float: left;
+    margin: 5px;
+    position: relative;
+    border: double;
+    background-color: black;
+    color: orange;
+
+
+  
+}
+sub1,sub2,sub3,sub4{
+    display: inline;
+}
+p{
+    margin: auto;
+    padding: 30px;
+    display: inline;
+}
+.offices{
+    display: inline;
+}
+.offices p{
+    display: block;
+    margin-left: 650px;
+}
+.offices h3{
+    display: inline;
+}
